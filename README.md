@@ -1,2 +1,2 @@
 # squit.github.io
-Squit WiKi page
+Squit web page
